@@ -32,6 +32,10 @@ align-items:center;
   margin-top: 4%;
 }
 
+img{
+  width:20%;  
+}
+
 p{
 width: 55%;
   text-align:left; 
