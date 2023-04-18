@@ -6,20 +6,9 @@ export default function Hero() {
     <div className="heroContainer">
       <div>
         <div>
-          <img className="heroImage" src={Image}  />
+          <img className="heroImage" src="https://images.unsplash.com/photo-1627595237973-79a55d966743?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fGNvbGxhZ2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"  />
         </div>
-        <div>
-          <img />
-        </div>
-        <div>
-          <img />
-        </div>
-        <div>
-          <img />
-        </div>
-        <div>
-          <img />
-        </div>
+       
       </div>
       <div className="textContent">
         <h1>Online Experiences</h1>
